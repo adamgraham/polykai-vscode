@@ -26,4 +26,5 @@
 - [Repository](https://github.com/adamgraham/polykai-vscode)
 - [Changelog](https://github.com/adamgraham/polykai-vscode/blob/master/CHANGELOG.md)
 - [License](https://github.com/adamgraham/polykai-vscode/blob/master/LICENSE)
+- [Report Issues](https://github.com/adamgraham/polykai-vscode/issues)
 - [Other Editor Support](https://github.com/adamgraham/polykai)
