@@ -1,0 +1,47 @@
+{
+    "name": "theme-polykai",
+    "displayName": "Polykai",
+    "description": "A dark color scheme inspired by Wimer Hazenberg's Monokai theme.",
+    "version": "1.0.0",
+    "license": "SEE LICENSE IN LICENSE",
+    "publisher": "adamgraham",
+    "author": {
+        "name": "Adam Graham",
+        "url": "https://github.com/adamgraham"
+    },
+    "homepage": "http://polykai.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adamgraham/polykai-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/adamgraham/polykai-vscode/issues"
+    },
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Polykai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Polykai.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1e2424",
+        "theme": "dark"
+    },
+    "keywords": [
+        "polykai",
+        "monokai",
+        "dark",
+        "color",
+        "theme"
+    ]
+}
