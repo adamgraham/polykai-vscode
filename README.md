@@ -1,4 +1,4 @@
-# [Polykai](https://marketplace.visualstudio.com/items?itemName=adamgraham.theme-polykai)
+# Polykai
 
 > A dark color scheme inspired by Wimer Hazenberg's Monokai theme.
 
