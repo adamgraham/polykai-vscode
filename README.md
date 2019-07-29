@@ -77,6 +77,7 @@ Type `theme`, choose `Preferences: Color Theme`, and select Polykai from the lis
 
 ## Resources
 
+- [Homepage](http://polykai.com/)
 - [Repository](https://github.com/adamgraham/polykai-vscode)
 - [Changelog](https://github.com/adamgraham/polykai-vscode/blob/master/CHANGELOG.md)
 - [License](https://github.com/adamgraham/polykai-vscode/blob/master/LICENSE)
