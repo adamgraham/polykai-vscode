@@ -36,7 +36,7 @@ Launch *Quick Open*:
 Paste the following command and press `Enter`:
 
 ```shell
-ext install polykai theme
+ext install polykai
 ```
 
 Pick the theme by author **Adam Graham** (me).
